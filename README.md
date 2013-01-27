@@ -1,4 +1,4 @@
 sviffr
 ======
 
-A simple python network-sniffer.
+A simple python3 network-sniffer.
